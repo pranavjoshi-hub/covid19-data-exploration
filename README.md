@@ -29,13 +29,13 @@ I explored the data with the tasks as below.
 * Created temporary table
 * Created view
 
-## Dashboard
+## Tableau Dashboard
 The dashboard indicates the following.
 * Global statistics
 * Death counts by continent
 * Percent populated by country
 * Average percent population infected by quarter
 
-Here is a snapshot of the dasboard.
+Here is a snapshot of the dashboard.
 
 ![](https://github.com/pranavjoshi-hub/covid19-data-exploration-and-dashboard/blob/main/images/dashboard.PNG)
