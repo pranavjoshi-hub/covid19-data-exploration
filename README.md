@@ -1,4 +1,4 @@
-# COVID-19 Data Exploration using SQL: Project Overview
+# COVID-19 Data Exploration & Dashboard: Project Overview
 * Split the dataset into 2 parts along the column axis, one dataset for deaths and the other for vaccinations
 * Explored a COVID-19 dataset containing 152,463 records, using SQL
 * Pulled relevant data for dashboard using SQL again
